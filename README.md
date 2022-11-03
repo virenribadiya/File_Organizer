@@ -21,3 +21,5 @@ category wise(Docs, Photos, Audio, Videos, etc),
 extension wise(.mp3, .mp4, .mkv, etc),
 nested folder structure (Year->Month->Week), etc.
 Given the complex nature of the problem, your goal is to design an automated script that will provide various options for arranging files with minimum time.
+
+![image](https://user-images.githubusercontent.com/108461765/199776273-e51d9b11-8a31-40eb-b03e-1d7b3f565443.png)
