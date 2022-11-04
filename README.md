@@ -32,7 +32,8 @@ pip install easygui
 
 To run the project enter the follwing command on command line:
 ```
-python COVID-19_Data-Visualizer.py
+python fileorganizer.py
 ```
 
 > <h1>Preview: GUI</h1>
+![image](https://user-images.githubusercontent.com/108461765/200005279-cb69c8e9-40cc-4d48-89c1-a1d3230c66d8.png)
