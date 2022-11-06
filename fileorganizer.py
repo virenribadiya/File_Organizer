@@ -1,5 +1,6 @@
-
-import os as o
+// The OS module in Python provides functions for interacting with the operating system. OS comes under Python's standard utility modules.
+import os as o 
+// The shutil module offers a number of high-level operations on files and collections of files.
 import shutil as s
 
 path=input('Enter Your Path:')
