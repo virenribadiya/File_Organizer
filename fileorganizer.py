@@ -1,6 +1,6 @@
-import os  
-import shutil  
-import easygui as e 
+import os  #provides functions for interacting with the operating system.
+import shutil  #helps in process of copying, moving and removal of files and directories.
+import easygui as e  # provides functions for gui creation.
 
 title="FILE ORGANIZER"
 e_msg="Enter Path"
@@ -13,8 +13,8 @@ else:
     ls=os.listdir(path)
     for i in ls:
 	name,ext=os.path.splitext(i)
-	ext=ext[1:] #for example .pdf----->pdf
-	if ext=="": #skipping a folder.
+	ext=ext[1:]                   #for example .pdf----->pdf
+	if ext=="":                   #skipping a folder.
 	    continue
 	elif os.path.exists(path+"/"+ext):
 	    shutil.move(path+"/"+i,path+"/"+ext+"/"+i)
