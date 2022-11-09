@@ -24,6 +24,11 @@ Given the complex nature of the problem, your goal is to design an automated scr
 
 ![image](https://user-images.githubusercontent.com/108461765/199776273-e51d9b11-8a31-40eb-b03e-1d7b3f565443.png)
 
+## Tech Stack:
+
+- Python 
+- EasyGUI ( module )
+
 
 To install the required modules run pip installer command on the command line:
 ```
