@@ -29,6 +29,7 @@ Given the complex nature of the problem, your goal is to design an automated scr
 - Python 
 - EasyGUI ( module )
 
+EasyGUI is a module for very simple, very easy GUI programming in Python. EasyGUI is different from other GUI generators in that EasyGUI is NOT event-driven. Instead, all GUI interactions are invoked by simple function calls. Unlike other complicated GUI’s EasyGUI is the simplest GUI till now.
 
 To install the required modules run pip installer command on the command line:
 ```
